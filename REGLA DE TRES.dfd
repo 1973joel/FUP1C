@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese  el numero de tareas'
+5
+1
+9
+numtareas
+4
+1
+28
+'porcentaje de las tareas  '
+5
+1
+10
+porcentaje
+4
+1
+43
+'ingrese el numero de tareas que hiciste  '
+5
+1
+10
+numtareash
+6
+1
+3
+res
+33
+(numtareash*porcentaje)/NUMTAREAS
+4
+1
+34
+'resultado en porcentaje  es',res 
+1

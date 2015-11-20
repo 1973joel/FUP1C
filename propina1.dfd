@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'ingrese cuenta'
+5
+1
+6
+cuenta
+7
+0
+1
+11
+cuenta>1000
+6
+2
+5
+PROPW
+11
+CUENTA*0.16
+5
+TOTAL
+12
+PROPW+CUENTA
+4
+1
+69
+'TU  PROPINA  ES        ',PROPW,'   TU CUENTA  TOTAL   ES     ',TOTAL
+13
+6
+2
+5
+TOTAL
+20
+CUENTA+(CUENTA*0.10)
+4
+PROP
+11
+CUENTA*0.10
+4
+1
+76
+'TU CUENTA  TOTAL ES    ',TOTAL,'     EL VALOR  DE TU PROPINA   ES    ',PROP
+13
+1
